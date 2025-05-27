@@ -18,6 +18,10 @@ This project uses [yt-dlp](https://github.com/yt-dlp/yt-dlp), a powerful audio/v
 
 ### Current State
 
+Currently removing some hard coding in the GUI and widget definitions
+
+### Roadmap
+
 Goals:
 
 - [x] Initial creation of the GUI and widgets
